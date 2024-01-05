@@ -1,0 +1,12 @@
+.analog-clock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .clock-wrapper {
+    text-align: center;
+    margin: 20px;
+  }
+  
